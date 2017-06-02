@@ -1,0 +1,8 @@
+D:\work\cs\Game\bin\Release\Game.exe.config
+D:\work\cs\Game\bin\Release\Game.exe
+D:\work\cs\Game\bin\Release\Game.pdb
+D:\work\cs\Game\obj\Release\Game.Form1.resources
+D:\work\cs\Game\obj\Release\Game.Properties.Resources.resources
+D:\work\cs\Game\obj\Release\Game.csproj.GenerateResource.Cache
+D:\work\cs\Game\obj\Release\Game.exe
+D:\work\cs\Game\obj\Release\Game.pdb
